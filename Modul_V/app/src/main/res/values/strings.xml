@@ -1,0 +1,10 @@
+<resources>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign In Short</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_field_required">Field Required</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="app_name">Modul_V</string>
+</resources>
